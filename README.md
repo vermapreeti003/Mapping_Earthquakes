@@ -19,11 +19,12 @@ Using the JavaScript and the D3.js library we have retrieved the coordinates and
   * And we have create a legend for the color range of earthquakes.
 Following the same concept, we have retrieved major earthquakes data from the GeoJSON Summary Feed for M4.5+Earthquakes for the past 7 days and we have added them to the map.
 
-Moreover, we have retrieved the Tectonic Plate Data from this GitHub repository and we have added them to the map and styled them.
+Moreover, we have retrieved the Tectonic Plate Data from the GitHub repository and we have added them to the map and styled them.
 
 The final map looks like Fig below.
 
 
 ![ssapi](https://user-images.githubusercontent.com/111541268/204306106-95803453-81d3-4af0-91d2-3b98c6db3193.png)
 
-
+## Summary
+We have visually mapped the earthquakes, major earthquakes and tectonic plates all over the world for the last seven days.
